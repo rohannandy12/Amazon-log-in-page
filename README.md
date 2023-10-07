@@ -1,2 +1,2 @@
-# Amazon-log-in-page
-using html and css
+# MERN_App_CRUD
+A basic CRUD application built completely in MERN stack.
